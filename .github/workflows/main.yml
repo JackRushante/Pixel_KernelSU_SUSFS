@@ -33,7 +33,7 @@ on:
         description: "Feature Set"
         type: choice
         options:
-          - KSUN+SUSFS+BBG
+          - KSUN+SUSFS
           - KSUN+BBG
           - KSUN
           - BBG
